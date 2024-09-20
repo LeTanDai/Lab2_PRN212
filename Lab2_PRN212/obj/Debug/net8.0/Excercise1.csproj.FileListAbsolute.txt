@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\BTVN\BTVN_Slot4_PRN212\bin\Debug\net8.0\Excercise1.exe
+C:\Users\ASUS\source\repos\BTVN\BTVN_Slot4_PRN212\bin\Debug\net8.0\Excercise1.deps.json
+C:\Users\ASUS\source\repos\BTVN\BTVN_Slot4_PRN212\bin\Debug\net8.0\Excercise1.runtimeconfig.json
+C:\Users\ASUS\source\repos\BTVN\BTVN_Slot4_PRN212\bin\Debug\net8.0\Excercise1.dll
+C:\Users\ASUS\source\repos\BTVN\BTVN_Slot4_PRN212\bin\Debug\net8.0\Excercise1.pdb
+C:\Users\ASUS\source\repos\BTVN\BTVN_Slot4_PRN212\obj\Debug\net8.0\Excercise1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\BTVN\BTVN_Slot4_PRN212\obj\Debug\net8.0\Excercise1.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\BTVN\BTVN_Slot4_PRN212\obj\Debug\net8.0\Excercise1.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\BTVN\BTVN_Slot4_PRN212\obj\Debug\net8.0\Excercise1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\BTVN\BTVN_Slot4_PRN212\obj\Debug\net8.0\Excercise1.dll
+C:\Users\ASUS\source\repos\BTVN\BTVN_Slot4_PRN212\obj\Debug\net8.0\refint\Excercise1.dll
+C:\Users\ASUS\source\repos\BTVN\BTVN_Slot4_PRN212\obj\Debug\net8.0\Excercise1.pdb
+C:\Users\ASUS\source\repos\BTVN\BTVN_Slot4_PRN212\obj\Debug\net8.0\Excercise1.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\BTVN\BTVN_Slot4_PRN212\obj\Debug\net8.0\ref\Excercise1.dll
